@@ -1,0 +1,1 @@
+The result we got is higher than the real value. This is because we did not clear the dataset by removing the duplicate tweets. Many of them are counted twice, thus making the result inaccurate.
